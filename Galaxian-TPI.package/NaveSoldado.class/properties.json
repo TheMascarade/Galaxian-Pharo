@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "NaveAlien",
+	"category" : "Galaxian-TPI",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "NaveSoldado",
+	"type" : "normal"
+}
