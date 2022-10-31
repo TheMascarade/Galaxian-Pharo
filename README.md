@@ -1,2 +1,2 @@
-# PdP-Guia
-Guia de trabajos practicos de paradigmas de programacion
+# Galaxian en Pharo
+Implementación del juego Galaxian en Pharo 10.
