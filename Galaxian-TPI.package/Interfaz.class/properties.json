@@ -5,7 +5,13 @@
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [ ],
+	"instvars" : [
+		"naveJugador",
+		"puntaje",
+		"vidas",
+		"formacionAlien",
+		"resolucion"
+	],
 	"name" : "Interfaz",
 	"type" : "normal"
 }

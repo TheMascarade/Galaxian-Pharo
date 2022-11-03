@@ -1,6 +1,6 @@
 {
 	"commentStamp" : "",
-	"super" : "Morph",
+	"super" : "CircleMorph",
 	"category" : "Galaxian-TPI",
 	"classinstvars" : [ ],
 	"pools" : [ ],
