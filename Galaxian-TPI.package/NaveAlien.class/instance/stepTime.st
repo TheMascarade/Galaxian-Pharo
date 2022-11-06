@@ -1,0 +1,3 @@
+setter
+stepTime
+	^ 100

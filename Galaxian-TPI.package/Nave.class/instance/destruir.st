@@ -1,0 +1,3 @@
+deleting
+destruir
+	self delete

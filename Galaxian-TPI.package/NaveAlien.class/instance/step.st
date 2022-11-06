@@ -1,0 +1,3 @@
+setter
+step
+	self mover
