@@ -6,5 +6,6 @@ inicializar
 		extent: 640@480;
 		añadirPuntaje;
 		añadirVidas;
+		añadirFormacion;
 		añadirJugador.
 	^ interfaz
