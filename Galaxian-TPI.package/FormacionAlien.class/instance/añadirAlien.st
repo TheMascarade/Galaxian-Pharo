@@ -1,5 +1,6 @@
 event
 añadirAlien
+	|alien|
 	coleccionAliens := OrderedCollection new.
 	alien := NaveSoldado new inicializar.
 	alien position: (500@260).

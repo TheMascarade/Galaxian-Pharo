@@ -7,9 +7,12 @@
 	"classvars" : [ ],
 	"instvars" : [
 		"naveJugador",
+		"formacionAlien",
+		"vidas",
 		"puntaje",
-		"formacionAlien"
+		"vidasMorph",
+		"puntajeMorph"
 	],
-	"name" : "Interfaz",
+	"name" : "Galaxian",
 	"type" : "normal"
 }

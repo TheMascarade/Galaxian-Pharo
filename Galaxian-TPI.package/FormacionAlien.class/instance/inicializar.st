@@ -7,5 +7,6 @@ inicializar
 		position: (40@40);
 		direccion: #derecha;
 		añadirAlien;
+		paso: 0;
 		startStepping.
 	^ formacion

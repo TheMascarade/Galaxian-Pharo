@@ -6,7 +6,7 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"alien",
+		"paso",
 		"coleccionAliens",
 		"direccion"
 	],
