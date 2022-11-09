@@ -8,9 +8,7 @@
 	"instvars" : [
 		"naveJugador",
 		"puntaje",
-		"vidas",
-		"formacionAlien",
-		"resolucion"
+		"formacionAlien"
 	],
 	"name" : "Interfaz",
 	"type" : "normal"

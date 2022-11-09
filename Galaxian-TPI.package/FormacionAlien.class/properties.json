@@ -7,6 +7,7 @@
 	"classvars" : [ ],
 	"instvars" : [
 		"alien",
+		"coleccionAliens",
 		"direccion"
 	],
 	"name" : "FormacionAlien",

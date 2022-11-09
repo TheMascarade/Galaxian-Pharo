@@ -1,3 +1,3 @@
 stepping and presenter
 step
-	self puedeDisparar: true.
+	self puedeDisparar: true

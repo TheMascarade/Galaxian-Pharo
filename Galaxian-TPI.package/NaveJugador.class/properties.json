@@ -4,9 +4,11 @@
 	"category" : "Galaxian-TPI",
 	"classinstvars" : [ ],
 	"pools" : [ ],
-	"classvars" : [ ],
+	"classvars" : [
+		"Vidas"
+	],
 	"instvars" : [
-		"vidas"
+		"contadorMuertes"
 	],
 	"name" : "NaveJugador",
 	"type" : "normal"

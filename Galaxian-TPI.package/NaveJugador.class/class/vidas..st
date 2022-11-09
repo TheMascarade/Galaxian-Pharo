@@ -1,3 +1,3 @@
 setter
 vidas: unNumero
-	vidas := unNumero
+	Vidas := unNumero

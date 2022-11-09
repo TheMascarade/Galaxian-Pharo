@@ -2,10 +2,9 @@ initialization
 inicializar
 	|nave|
 	nave := self class new.
-	nave color: Color white;
-		position: 300@420;
+	nave color: Color red;
 		extent: 20@20;
 		puedeDisparar: true;
-		contadorMuertes: 0;
+		puntaje: 10;
 		startStepping.
 	^ nave

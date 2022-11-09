@@ -1,0 +1,3 @@
+accessing
+vidasJugador
+	^ Vidas - contadorMuertes

@@ -1,3 +1,0 @@
-setter
-stepTime
-	^ 100

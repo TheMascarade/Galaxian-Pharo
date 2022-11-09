@@ -1,3 +1,4 @@
 stepping and presenter
 step
-	self mover
+	self mover.
+	self disparar

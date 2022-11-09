@@ -1,0 +1,3 @@
+accessing
+cantidadAliens
+	^ coleccionAliens size

@@ -1,2 +1,0 @@
-setter
-moverIzquierda

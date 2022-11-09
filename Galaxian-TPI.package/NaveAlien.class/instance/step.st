@@ -1,3 +1,0 @@
-setter
-step
-	self mover
