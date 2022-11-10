@@ -1,3 +1,3 @@
 stepping
 stepTime
-	^ 300
+	^ 900

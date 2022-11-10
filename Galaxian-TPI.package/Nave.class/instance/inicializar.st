@@ -1,2 +1,3 @@
 initialization
 inicializar
+	^ self subclassResponsibility

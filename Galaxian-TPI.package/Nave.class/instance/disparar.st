@@ -1,3 +1,3 @@
 event
 disparar
-	
+	self subclassResponsibility 

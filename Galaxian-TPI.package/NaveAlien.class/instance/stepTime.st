@@ -1,3 +1,3 @@
 stepping
 stepTime
-	^ 2000
+	^ 10000

@@ -2,7 +2,7 @@ initialization
 inicializar
 	|nave|
 	nave := self class new.
-	nave color: Color red;
+	nave color: Color green;
 		extent: 20@20;
 		puedeDisparar: true;
 		puntaje: 10;

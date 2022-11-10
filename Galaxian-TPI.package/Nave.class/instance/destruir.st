@@ -1,3 +1,3 @@
 deleting
 destruir
-	self delete
+	^ self subclassResponsibility
