@@ -1,3 +1,6 @@
 initialize
 juegoNuevo
-	^ self new juegoNuevo openInWorld
+	|juego|
+	juego := self new juegoNuevo openInWorld.
+	juego center: juego world center.
+	^ juego
