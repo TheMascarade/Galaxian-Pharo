@@ -1,3 +1,3 @@
-abstract
-mover
+event
+impacto
 	^ self subclassResponsibility 

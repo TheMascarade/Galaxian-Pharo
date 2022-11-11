@@ -3,7 +3,7 @@ handleKeystroke: unEvento
 	"Todas las acciones que el jugador puede realizar"
 	|valorTecla|
 	valorTecla := unEvento keyValue.
-	(self findA: NaveJugador) ifNotNil: [ 
+	(self findA: NaveJugador) ifNotNil: [ "Solamente si la nave del jugador existe"
 		"Tecla d"
 		valorTecla = 100 ifTrue: [ 
 			naveJugador moverDerecha ].
